@@ -37,3 +37,4 @@ All t-tests are as below:
 ## Study Design: MechaCar vs Competition
 How much hosepower does a car have is one of the factors buyers consider while buying car. This are primary factors consumer examine while buying Car:horsepower, mpg and size of engine. We can utilize our tests to see if MechaCar is much different from the competiton. Thus, a null hypothesis can be created stating that it is similar to the competition and the alternative would be the opposite of it.
 In order to do this, we need to put in place a t-test after collecting the data from different types of competitor vehicles. Our t-test will help compare the population of all types of competitor vehicles.
+
